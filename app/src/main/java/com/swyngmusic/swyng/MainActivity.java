@@ -284,14 +284,8 @@ public class MainActivity extends Activity implements
         AuthToken token = new AuthToken(authResponse.getAccessToken());
         String userID = SpotifyFactory.getUserID(token);
         JSONArray playlists = SpotifyFactory.getPlaylists(token, userID);
-//        List<String> playListNames = SpotifyFactory.getPlayListNames(token, userID);
-//        if (playListNames == null)
-//            logStatus("playListNames is NULL");
-//        else {
-//            for (int i = 0; i < playListNames.size(); i++)
-//                logStatus(playListNames.get(i));
-//            logStatus(SpotifyFactory.createPlaylist(token, userID, playListNames.get(0)));
-//        }
+
+        logStatus(playlists.toString());
 
         if (mPlayer == null) {
             Config playerConfig = new Config(getApplicationContext(), authResponse.getAccessToken(), CLIENT_ID);

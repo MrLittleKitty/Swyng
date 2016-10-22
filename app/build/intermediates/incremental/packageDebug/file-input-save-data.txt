@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Oct 22 16:34:52 PDT 2016
+#Sat Oct 22 16:45:07 PDT 2016
 210.set=ANDROID_RESOURCE
 282.file=C\:\\Users\\ewolfe\\AndroidStudioProjects\\Swyng\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_tint_default.xml
 14.set=ANDROID_RESOURCE

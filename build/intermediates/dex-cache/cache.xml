@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ewolfe\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\ewolfe\AndroidStudioProjects\Swyng\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_a805f7b6d3e7357bc2f7399dba7d8578ab898451.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ewolfe\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\ewolfe\AndroidStudioProjects\Swyng\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_14b3c5d4fb9b939aee4f73e4cb0b2197adbda359.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ewolfe\AndroidStudioProjects\Swyng\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\ewolfe\AndroidStudioProjects\Swyng\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_69f15f58d83ebdf772631f2c758625af53b44619.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ewolfe\AndroidStudioProjects\Swyng\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\ewolfe\AndroidStudioProjects\Swyng\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_2628ee4070319e8a6c66f6349b7a153b0d6be596.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ewolfe\AndroidStudioProjects\Swyng\app\build\intermediates\exploded-aar\com.spotify.sdk\spotify-auth-beta23-noconnect-2.20b\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eed3cdbe6aacd905b1b4a1c7abab345ad051e967">
+        <dex dex="C:\Users\ewolfe\AndroidStudioProjects\Swyng\app\build\intermediates\pre-dexed\debug\exploded-aar-com.spotify.sdk-spotify-auth-beta23-noconnect-2.20b_f960e59391fc994d27a3b15e23777829d8a9e8dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ewolfe\AndroidStudioProjects\Swyng\app\build\intermediates\exploded-aar\com.spotify.sdk\spotify-player-beta23-noconnect-2.20b\jars\libs\jnihelpers-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="62759ecf4e0678d82d4c46e2fa76eed4ea7e1426">
+        <dex dex="C:\Users\ewolfe\AndroidStudioProjects\Swyng\app\build\intermediates\pre-dexed\debug\jnihelpers-1.0_e8292e8d5642f2ee9d0554280b89e17bd8d72046.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ewolfe\AndroidStudioProjects\Swyng\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\ewolfe\AndroidStudioProjects\Swyng\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_4e5458f3159142864f152e3dd819115e5fd5dfa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ewolfe\AndroidStudioProjects\Swyng\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\ewolfe\AndroidStudioProjects\Swyng\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_432a148cb9ab04e47a8ea1278d0540f111dd40de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ewolfe\AndroidStudioProjects\Swyng\app\libs\unirest-java-1.4.10-SNAPSHOT-withDependency-ShadedForAndroid.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b7bb1bd42f4226e81dd18be3ed2f0689050133bf">
+        <dex dex="C:\Users\ewolfe\AndroidStudioProjects\Swyng\app\build\intermediates\pre-dexed\debug\unirest-java-1.4.10-SNAPSHOT-withDependency-ShadedForAndroid_89b4c9bbe2488d0d652470fc3d1b9e0ffc1e80a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ewolfe\AndroidStudioProjects\Swyng\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\ewolfe\AndroidStudioProjects\Swyng\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_f9ac0e482ce10a492fb234c5b4b5a32c1f6eac20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ewolfe\AndroidStudioProjects\Swyng\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\ewolfe\AndroidStudioProjects\Swyng\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e49bfdf3711d0bfa27c79a33a63091b1a939dd28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ewolfe\AndroidStudioProjects\Swyng\app\build\intermediates\exploded-aar\com.spotify.sdk\spotify-player-beta23-noconnect-2.20b\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="823eb42da71365f2ddab484b52a0693417bc735f">
+        <dex dex="C:\Users\ewolfe\AndroidStudioProjects\Swyng\app\build\intermediates\pre-dexed\debug\exploded-aar-com.spotify.sdk-spotify-player-beta23-noconnect-2.20b_02e998ce96151dd21b2815e8ab7db6d743884aa7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ewolfe\AndroidStudioProjects\Swyng\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\ewolfe\AndroidStudioProjects\Swyng\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_3f24e972a9facdd8b4b382770abd740cf5adf443.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ewolfe\AndroidStudioProjects\Swyng\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\ewolfe\AndroidStudioProjects\Swyng\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_68e4805b5cc54c2f68a84df2e513206fc27bc90f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ewolfe\AndroidStudioProjects\Swyng\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\ewolfe\AndroidStudioProjects\Swyng\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_141f3d8abb9d69239dc96e826666bd0f937f0582.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ewolfe\AndroidStudioProjects\Swyng\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\ewolfe\AndroidStudioProjects\Swyng\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_094132b70d5f0bc4114d4fe10f49223e5c90ba56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ewolfe\AndroidStudioProjects\Swyng\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\ewolfe\AndroidStudioProjects\Swyng\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_7c416d9ea7be5407edad2da6f280d95812974415.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ewolfe\AndroidStudioProjects\Swyng\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ewolfe\AndroidStudioProjects\Swyng\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_f73f767deedcffdc847780ad7d4aacc3125cb7be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ewolfe\AndroidStudioProjects\Swyng\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\ewolfe\AndroidStudioProjects\Swyng\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_68df0827e92d688a41b74093ced398af35bcb472.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ewolfe\AndroidStudioProjects\Swyng\app\build\intermediates\exploded-aar\com.android.support\customtabs\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7a84af748a39002a40b5d0c1eb2cd9a13c9370ec">
+        <dex dex="C:\Users\ewolfe\AndroidStudioProjects\Swyng\app\build\intermediates\pre-dexed\debug\com.android.support-customtabs-24.2.1_0312563734f3fa4cdd49e97dad8e8273590f1d21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ewolfe\AndroidStudioProjects\Swyng\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\ewolfe\AndroidStudioProjects\Swyng\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_3b11bcf3e0c77f11c4413f772471e945364c88b7.jar" />
+    </item>
+
+</items>
